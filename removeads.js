@@ -3,7 +3,7 @@
 // @description	Remove anuncios de sites de videos e faz algumas modificacoes pra facilitar a navegacao
 // @author	daniel.uramg@gmail.com
 // @version	0.27
-// @downloadURL	http://ideias.2p.fm/userscripts/removeads.js
+// @downloadURL	https://raw.githubusercontent.com/danieluramg/MegaFilmesHD.net-Clear/master/removeads.js
 // @require	http://ideias.2p.fm/userscripts/userscript.js
 // @require	http://ideias.2p.fm/userscripts/jquery-2.1.1.min.js
 // @match	http://*.megafilmeshd.net/*
